@@ -1,0 +1,5 @@
+# Project exclude paths
+/log/
+/node_modules/
+/public/packs/
+/tmp/

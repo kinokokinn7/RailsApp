@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2155ac74-a250-4a18-82ec-31d8f9bf6954" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby File" />
+        <option value="ERB File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectId" id="1mXScc2F15fD9e6OFMNDz5bYUai" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Rails.Development: RailsApp">
+    <configuration name="Development: RailsApp" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="RailsApp" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: RailsApp" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="RailsApp" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: RailsApp" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="RailsApp" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: RailsApp" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="RailsApp" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2155ac74-a250-4a18-82ec-31d8f9bf6954" name="Default Changelist" comment="" />
+      <created>1609638525511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609638525511</updated>
+      <workItem from="1609638542872" duration="224000" />
+      <workItem from="1609639059163" duration="1329000" />
+      <workItem from="1609640923265" duration="1854000" />
+      <workItem from="1609648199264" duration="1285000" />
+      <workItem from="1609650180197" duration="7000" />
+      <workItem from="1609762778732" duration="313000" />
+      <workItem from="1609802771933" duration="281000" />
+      <workItem from="1609888373176" duration="629000" />
+      <workItem from="1610166406902" duration="12000" />
+      <workItem from="1610188169687" duration="792000" />
+      <workItem from="1610359408671" duration="31000" />
+      <workItem from="1611012273423" duration="554000" />
+      <workItem from="1611183556291" duration="145000" />
+      <workItem from="1611184596721" duration="215000" />
+      <workItem from="1611230709314" duration="630000" />
+      <workItem from="1611378865136" duration="8000" />
+      <workItem from="1612598385119" duration="1672000" />
+      <workItem from="1613181551525" duration="18000" />
+      <workItem from="1613872684831" duration="33000" />
+      <workItem from="1613872726688" duration="2050000" />
+      <workItem from="1614079893324" duration="1289000" />
+      <workItem from="1614727631498" duration="262000" />
+      <workItem from="1614773889284" duration="55000" />
+      <workItem from="1615247256015" duration="338000" />
+      <workItem from="1615462719545" duration="512000" />
+      <workItem from="1615464405141" duration="115000" />
+      <workItem from="1615620986387" duration="562000" />
+      <workItem from="1615621833086" duration="5000" />
+      <workItem from="1615622220963" duration="2400000" />
+      <workItem from="1615937758061" duration="86000" />
+      <workItem from="1616024910930" duration="673000" />
+      <workItem from="1616071571682" duration="1127000" />
+      <workItem from="1616109271833" duration="524000" />
+      <workItem from="1616303214829" duration="726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609642975106">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="184" y="102" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609639543514" />
+    <state x="184" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1920.1003@0.23.1440.877" timestamp="1609642975106" />
+    <state x="404" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609641445294">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="404" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609641445294" />
+    <state width="662" height="228" key="GridCell.Tab.0.bottom" timestamp="1616303785936">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1613898234378" />
+    <state width="678" height="214" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612609336303" />
+    <state width="678" height="215" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1610189380289" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051585" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500605" />
+    <state width="1398" height="216" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499133" />
+    <state width="918" height="268" key="GridCell.Tab.0.bottom/0.23.1920.996@0.23.1920.996" timestamp="1615639682886" />
+    <state width="662" height="228" key="GridCell.Tab.0.bottom/33.23.1407.877@33.23.1407.877" timestamp="1616303785936" />
+    <state width="662" height="228" key="GridCell.Tab.0.center" timestamp="1616303785936">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1613898234377" />
+    <state width="678" height="214" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1612609336303" />
+    <state width="678" height="215" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1610189380288" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051583" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500604" />
+    <state width="1398" height="216" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499132" />
+    <state width="918" height="268" key="GridCell.Tab.0.center/0.23.1920.996@0.23.1920.996" timestamp="1615639682885" />
+    <state width="662" height="228" key="GridCell.Tab.0.center/33.23.1407.877@33.23.1407.877" timestamp="1616303785936" />
+    <state width="662" height="228" key="GridCell.Tab.0.left" timestamp="1616303785935">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1613898234376" />
+    <state width="678" height="214" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1612609336303" />
+    <state width="678" height="215" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1610189380288" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051582" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500603" />
+    <state width="1398" height="216" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499131" />
+    <state width="918" height="268" key="GridCell.Tab.0.left/0.23.1920.996@0.23.1920.996" timestamp="1615639682885" />
+    <state width="662" height="228" key="GridCell.Tab.0.left/33.23.1407.877@33.23.1407.877" timestamp="1616303785935" />
+    <state width="662" height="228" key="GridCell.Tab.0.right" timestamp="1616303785936">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1613898234377" />
+    <state width="678" height="214" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1612609336303" />
+    <state width="678" height="215" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1610189380288" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051584" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500604" />
+    <state width="1398" height="216" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499132" />
+    <state width="918" height="268" key="GridCell.Tab.0.right/0.23.1920.996@0.23.1920.996" timestamp="1615639682886" />
+    <state width="662" height="228" key="GridCell.Tab.0.right/33.23.1407.877@33.23.1407.877" timestamp="1616303785936" />
+    <state width="662" height="228" key="GridCell.Tab.1.bottom" timestamp="1616303785937">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1613898234379" />
+    <state width="678" height="214" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612609336305" />
+    <state width="678" height="215" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1610189380289" />
+    <state width="1398" height="216" key="GridCell.Tab.1.bottom/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051587" />
+    <state width="1398" height="216" key="GridCell.Tab.1.bottom/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500606" />
+    <state width="1398" height="216" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499134" />
+    <state width="918" height="268" key="GridCell.Tab.1.bottom/0.23.1920.996@0.23.1920.996" timestamp="1615639682887" />
+    <state width="662" height="228" key="GridCell.Tab.1.bottom/33.23.1407.877@33.23.1407.877" timestamp="1616303785937" />
+    <state width="662" height="228" key="GridCell.Tab.1.center" timestamp="1616303785937">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1613898234379" />
+    <state width="678" height="214" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1612609336304" />
+    <state width="678" height="215" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1610189380289" />
+    <state width="1398" height="216" key="GridCell.Tab.1.center/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051587" />
+    <state width="1398" height="216" key="GridCell.Tab.1.center/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500606" />
+    <state width="1398" height="216" key="GridCell.Tab.1.center/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499133" />
+    <state width="918" height="268" key="GridCell.Tab.1.center/0.23.1920.996@0.23.1920.996" timestamp="1615639682886" />
+    <state width="662" height="228" key="GridCell.Tab.1.center/33.23.1407.877@33.23.1407.877" timestamp="1616303785937" />
+    <state width="662" height="228" key="GridCell.Tab.1.left" timestamp="1616303785937">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1613898234378" />
+    <state width="678" height="214" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1612609336304" />
+    <state width="678" height="215" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1610189380289" />
+    <state width="1398" height="216" key="GridCell.Tab.1.left/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051586" />
+    <state width="1398" height="216" key="GridCell.Tab.1.left/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500605" />
+    <state width="1398" height="216" key="GridCell.Tab.1.left/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499133" />
+    <state width="918" height="268" key="GridCell.Tab.1.left/0.23.1920.996@0.23.1920.996" timestamp="1615639682886" />
+    <state width="662" height="228" key="GridCell.Tab.1.left/33.23.1407.877@33.23.1407.877" timestamp="1616303785937" />
+    <state width="662" height="228" key="GridCell.Tab.1.right" timestamp="1616303785937">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="678" height="213" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1613898234379" />
+    <state width="678" height="214" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1612609336304" />
+    <state width="678" height="215" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1610189380289" />
+    <state width="1398" height="216" key="GridCell.Tab.1.right/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609643051587" />
+    <state width="1398" height="216" key="GridCell.Tab.1.right/0.23.1440.835/1440.23.1920.1057@0.23.1440.835" timestamp="1609649500606" />
+    <state width="1398" height="216" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1920.1004@0.23.1440.877" timestamp="1609648499133" />
+    <state width="918" height="268" key="GridCell.Tab.1.right/0.23.1920.996@0.23.1920.996" timestamp="1615639682887" />
+    <state width="662" height="228" key="GridCell.Tab.1.right/33.23.1407.877@33.23.1407.877" timestamp="1616303785937" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1609642956693">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="243" height="457" key="HiddenNamespacesPopup/0.23.1440.877/1440.23.1920.1003@0.23.1440.877" timestamp="1609642956693" />
+    <state x="249" y="83" key="SettingsEditor" timestamp="1616071703430">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state x="221" y="80" key="SettingsEditor/0.23.1440.829@0.23.1440.829" timestamp="1613873084837" />
+    <state x="221" y="80" key="SettingsEditor/0.23.1440.836/1440.23.1920.1057@0.23.1440.836" timestamp="1609638604998" />
+    <state x="249" y="83" key="SettingsEditor/33.23.1407.877@33.23.1407.877" timestamp="1616071703430" />
+    <state x="476" y="322" width="624" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1613873084147">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="476" y="322" width="624" height="495" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.23.1440.829@0.23.1440.829" timestamp="1613873084147" />
+    <state x="409" y="189" width="670" height="712" key="search.everywhere.popup" timestamp="1616110152270">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.833@0.23.1440.833" timestamp="1610188718558" />
+    <state x="385" y="181" width="670" height="676" key="search.everywhere.popup/0.23.1440.834/1440.23.1920.1057@0.23.1440.834" timestamp="1609639814469" />
+    <state x="409" y="189" width="670" height="712" key="search.everywhere.popup/33.23.1407.877@33.23.1407.877" timestamp="1616110152270" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RailsApp@Development__RailsApp.rcov" NAME="Development: RailsApp Coverage Results" MODIFIED="1616303604245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="RailsApp" />
+  </component>
+</project>
