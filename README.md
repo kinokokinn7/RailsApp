@@ -1,24 +1,6 @@
 # README
+これはRuby on Rails学習用に作成したサンプルアプリです。
+下記の書籍を参考に作成しています。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+【参考書籍】
+掌田 津耶乃, 『Ruby on Rails 6 超入門』, 秀和システム, 2020/2/21
